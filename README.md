@@ -14,7 +14,7 @@
 
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/amy1481?theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
-![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Baloo&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username=Amy1481?theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&font=Baloo&ext=activity)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
