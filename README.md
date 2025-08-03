@@ -41,7 +41,7 @@
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Amy1481&theme=radical&no-frame=false&margin-w=4)
-## 🏆 GitHub Trophies
+
 
 
 
