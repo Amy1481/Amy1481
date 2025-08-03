@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amishamohanty&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amishamohanty&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amy1481&theme=radical" width="47%" />
 </div>
 
 ---
@@ -32,17 +32,17 @@
 <h2>🔭 Visitor Count</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amishamohanty&label=Profile%20views&color=0e75b6&style=flat" alt="amishamohanty" />
+  <img src="https://komarev.com/ghpvc/?username=Amy1481&label=Profile%20views&color=0e75b6&style=flat" alt="amishamohanty" />
 </p>
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/amy1481?theme=unicorn&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Amy1481?theme=unicorn&ext=heatmap)
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=amishamohanty&theme=radical&no-frame=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=Amy1481&theme=radical&no-frame=false&margin-w=4)
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=amishamohanty&theme=radical&no-frame=false&margin-w=4)
+
 
 
