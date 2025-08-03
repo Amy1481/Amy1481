@@ -35,3 +35,14 @@
   <img src="https://komarev.com/ghpvc/?username=amishamohanty&label=Profile%20views&color=0e75b6&style=flat" alt="amishamohanty" />
 </p>
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/amy1481?theme=unicorn&ext=heatmap)
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=amishamohanty&theme=radical&no-frame=false&margin-w=4)
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=amishamohanty&theme=radical&no-frame=false&margin-w=4)
+
+
