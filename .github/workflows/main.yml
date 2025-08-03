@@ -1,25 +1,28 @@
-name: 🟢 Daily Activity
+name: Update README Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at 12 AM UTC
+    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Update README with timestamp
+      - name: Update README
         run: |
-          echo "Last updated: $(date -u)" > last-update.txt
+          echo "Last updated on $(date -u)" > README.md
+          echo "Auto-update test!" >> README.md
 
-      - name: Commit and push
+      - name: Commit and Push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add last-update.txt
-          git commit -m "✅ Daily update"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "📆 Auto-update README"
           git push
