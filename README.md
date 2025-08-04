@@ -37,14 +37,14 @@
 
 ## 📊 GitHub Stats
 
-![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amy1481&show_icons=true&theme=dark&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amy1481&layout=compact&theme=dark)
+![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amy1481&show_icons=true&theme=dark&hide_title=true&cache_seconds=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amy1481&layout=compact&theme=dark&cache_seconds=1)
 
 ---
 
 ## 🧩 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/amy1481?theme=dark&layout=compact&font=Baloo+2&animation=true&ext=activity)](https://leetcode.com/Amy1481)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/amy1481?theme=dark&layout=compact&font=Baloo+2&animation=true&ext=activity)](https://leetcode.com/Amy1481&cache_seconds=1)
 
 
 ---
