@@ -1,27 +1,8 @@
-# --- Boost Real Programming Languages ---
-
-# Ignore docs, markdown, and non-code files
+# This is a profile README repo. Exclude it from language stats.
 *.md linguist-documentation
-*.txt linguist-documentation
-*.pdf linguist-documentation
 *.json linguist-generated
-*.yml linguist-generated
-*.yaml linguist-generated
-
-# Ignore images and static files
 *.svg linguist-generated
 *.png linguist-generated
 *.jpg linguist-generated
 *.jpeg linguist-generated
-*.gif linguist-generated
-*.ico linguist-generated
-
-# Ignore entire folders commonly not code
-/docs/* linguist-documentation
-/public/* linguist-documentation
 /assets/* linguist-documentation
-/static/* linguist-documentation
-
-# Optional: Ignore frontend HTML/CSS if you want backend-focused profile
-# *.html linguist-documentation
-# *.css linguist-documentation
