@@ -50,7 +50,7 @@ Auto-update test!
 
 ### 💡 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/amy1481?theme=light&font=JetBrains+Mono)](https://leetcode.com/amy1481&layout=compact&theme=radical)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/amy1481?theme=light&font=JetBrains+Mono)](https://leetcode.com/amy1481?layout=compact&theme=radical)
 
 ---
 
